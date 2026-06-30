@@ -6,7 +6,7 @@
 
 Building technology that helps people learn, manage money, and solve real-world problems.
 
-[🌐 Website](https://f0259.5fh.ru/) • [📢 Telegram Community](https://t.me/+L6XE0cgOA6Y0NmYy)
+[🌐 Website](https://asilbek-portfolio-uf4f.bolt.host/) • [📢 Telegram Community](https://t.me/+L6XE0cgOA6Y0NmYy)
 
 </div>
 
