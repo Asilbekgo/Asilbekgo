@@ -56,7 +56,7 @@ Helping students improve financial literacy through research, technology, and ed
 
 🌐 **Website**
 
-https://f0259.5fh.ru/
+(https://asilbek-portfolio-uf4f.bolt.host/)
 
 📢 **Telegram Community**
 
