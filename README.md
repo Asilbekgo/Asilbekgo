@@ -67,7 +67,7 @@
 
 # Hi 👋, I'm Asilbek Orziqulov
 
-### Student Developer • Researcher • Financial Literacy Advocate
+### Student Developer • Researcher •
 
 Building technology that helps people learn, manage money, and solve real-world problems.
 
